@@ -56,5 +56,5 @@ input[type='submit'],input[type='button']{
 
 .button{
     display: flex;
-    gap: 5px;
+    justify-content: space-between;
 }
